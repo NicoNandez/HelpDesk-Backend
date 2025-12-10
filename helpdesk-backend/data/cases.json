@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "titulo": "Problema con el inicio de sesi\u00f3n",
-    "descripcion": "El usuario reporta que no puede iniciar sesi\u00f3n en el sistema corporativo.",
+    "titulo": "Problema con el inicio de sesion",
+    "descripcion": "El usuario reporta que no puede iniciar sesion en el sistema corporativo.",
     "categoria": "Acceso",
     "estado": "abierto",
     "creadoPor": "usuario_externo",
